@@ -36,6 +36,10 @@
     background-color: #9b59b6;
 }
 
+.bg-color-contact{
+        background-color: #fff;
+    }
+
 /*--------Special paddings/ margins/ text*/
 
 h1,
@@ -357,3 +361,13 @@ footer {
 .history-items {
     margin-bottom: 30px;
 }
+
+
+
+/* ----------------------------------------contact form */
+
+
+.contact-heading {
+        font-family: "Exo", sans-serif;
+        font font-weight: 300;
+    }
