@@ -40,6 +40,11 @@
         background-color: #fff;
     }
 
+    .github-icon i {
+        font-size: 1.5em; 
+        color: white;  
+    }
+
 /*--------Special paddings/ margins/ text*/
 
 h1,
